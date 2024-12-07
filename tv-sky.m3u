@@ -2,3 +2,7 @@
 https://ssc-1-enc.edgenextcdn.net/out/v1/c696e4819b55414388a1a487e8a45ca1/index.mpd?
 #EXTINF:-1 group-title="ssc sport" tvg-logo="https://d.top4top.io/p_3234t0cn81.jpg", ssc1
 https://ssc-1-enc.edgenextcdn.net/out/v1/c696e4819b55414388a1a487e8a45ca1/index.mpd?
+#EXTINF:-1 group-title="ssc sport" tvg-logo="https://d.top4top.io/p_3234t0cn81.jpg", ssc 2
+#EXTVLCOPT:http-drm-scheme=clearkey
+#EXTVLCOPT:http-drm-license=8bcfc55359e24bd7ad1c5560a96ddd3c:b5dcf721ab522af92a9d3bf0bd55b596
+https://ssc-2-enc.edgenextcdn.net/out/v1/a16db2ec338a445a82d9c541cc9293f9/index.mpd
